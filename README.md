@@ -55,7 +55,7 @@ The goal is to:
 
 ---
 
-## 📂 Files
+## Files
 - `Atliq Analysis Report.pdf` → Exported Power BI dashboard report
 - `Atliq Analysis.pbix` → Power BI dashboard file
 - `DataSet` → Dataset folder with the data and Excel sheets used
@@ -69,7 +69,7 @@ The goal is to:
 
 ---
 
-## 📌 Insights
+## Insights
 - **On-Time and In-Full performance are significantly below targets**, indicating operational inefficiencies.  
 - **Line Fill Rate (~66%)** shows frequent partial order fulfillment.  
 - **Volume Flow Rate (~96%)** suggests quantity-level deliveries are mostly consistent, but order completeness is an issue.  
